@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="container ">
         <div className="flex lg:flex-row sm:flex-col">
           <div className="lg:basis-2/4 md:basis-2/4 sm:basis-1/2">
-            <div className="hero-text">
+            <div className="hero-text flex flex-col items-center justify-center">
               <h3 className="lg:text-5xl md:text-3xl ">
                 Book your comfortable <br /> and Hassle free ride at <br />
                 <span className="">HR-TAXI</span>

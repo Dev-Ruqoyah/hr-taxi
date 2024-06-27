@@ -12,7 +12,10 @@ const Header = () => {
                 </Link>
                 <div className="flex justify-center md:order-2  gap-2">
                     <Link to="/sign-in">
-                        <Button gradientDuoTone ="purpleToBlue" outline>Sign In</Button>
+                        <Button gradientDuoTone ="purpleToBlue" >Sign In</Button>
+                    </Link>
+                    <Link to="/sign-in">
+                    <Button gradientDuoTone ="purpleToBlue" outline >Sign up</Button>
                     </Link>
 
                    
